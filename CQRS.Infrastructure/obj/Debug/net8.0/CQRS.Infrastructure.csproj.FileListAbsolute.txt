@@ -1,0 +1,15 @@
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Infrastructure.deps.json
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Infrastructure.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Infrastructure.pdb
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Domain.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Domain.pdb
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.AssemblyInfo.cs
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Inf.73B3A6BF.Up2Date
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\refint\CQRS.Infrastructure.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.pdb
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Infrastructure\obj\Debug\net8.0\ref\CQRS.Infrastructure.dll

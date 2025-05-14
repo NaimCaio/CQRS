@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\CQRS.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\CQRS.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\commands\\customers\\createcustomercommand\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\commands\\customers\\createcustomercommand\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\queries\\customers\\getallcustomers\\getallcustomershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\queries\\customers\\getallcustomers\\getallcustomershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.domain\\interfaces\\infrastructure\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|solutionrelative:cqrs.domain\\interfaces\\infrastructure\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\commands\\customers\\createcustomercommand\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\commands\\customers\\createcustomercommand\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|solutionrelative:cqrs.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|solutionrelative:cqrs.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\queries\\customers\\getallcustomers\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\queries\\customers\\getallcustomers\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\commands\\customers\\createcustomercommand\\createcustomervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\commands\\customers\\createcustomercommand\\createcustomervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|solutionrelative:cqrs.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|solutionrelative:cqrs.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|solutionrelative:cqrs.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.domain\\interfaces\\infrastructure\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|solutionrelative:cqrs.domain\\interfaces\\infrastructure\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.domain\\interfaces\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|solutionrelative:cqrs.domain\\interfaces\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\commons\\bases\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\commons\\bases\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.infrastructure\\cqrs.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D08481C5-8396-4C20-984F-3DAADD2C19BB}|CQRS.Infrastructure\\CQRS.Infrastructure.csproj|solutionrelative:cqrs.infrastructure\\cqrs.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\commons\\bases\\baseresponsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\commons\\bases\\baseresponsegeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\commons\\bases\\baseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\commons\\bases\\baseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.application\\cqrs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90456683-212D-41A6-A262-9B1C45C3897B}|CQRS.Application\\CQRS.Application.csproj|solutionrelative:cqrs.application\\cqrs.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|c:\\users\\caio naim\\source\\repos\\cqrsapp\\cqrs.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF19A54A-F4B1-4522-8541-EBE7A9B3FEB7}|CQRS.Domain\\CQRS.Domain.csproj|solutionrelative:cqrs.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Controllers\\CustomerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllCustomersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersHandler.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersHandler.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersHandler.cs",
+              "RelativeToolTip": "CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:35:47.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerHandler.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerHandler.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerHandler.cs",
+              "RelativeToolTip": "CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:38:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:28:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:23:01.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "CQRS.Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:09:51.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CQRS.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "CQRS.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:49:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "CQRS.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "CQRS.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:10:19.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CQRS.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\CQRS.Api.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\CQRS.Api.csproj",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\CQRS.Api.csproj",
+              "RelativeToolTip": "WebApplication1\\CQRS.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T01:55:27.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:59:46.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Interfaces\\Infrastructure\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CQRS.Domain\\Interfaces\\Infrastructure\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Interfaces\\Infrastructure\\IGenericRepository.cs",
+              "RelativeToolTip": "CQRS.Domain\\Interfaces\\Infrastructure\\IGenericRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:00:31.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerValidator.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerValidator.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerValidator.cs",
+              "RelativeToolTip": "CQRS.Application\\Commands\\Customers\\CreateCustomerCommand\\CreateCustomerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:28:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllCustomersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersQuery.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersQuery.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersQuery.cs",
+              "RelativeToolTip": "CQRS.Application\\Queries\\Customers\\GetAllCustomers\\GetAllCustomersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:37:12.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CQRS.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CQRS.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:02:57.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CQRS.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CQRS.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:17:12.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CQRS.Infrastructure\\context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\context\\AppDbContext.cs",
+              "RelativeToolTip": "CQRS.Infrastructure\\context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:48:38.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Interfaces\\Infrastructure\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CQRS.Domain\\Interfaces\\Infrastructure\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Interfaces\\Infrastructure\\ICustomerRepository.cs",
+              "RelativeToolTip": "CQRS.Domain\\Interfaces\\Infrastructure\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:59:47.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Interfaces\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CQRS.Domain\\Interfaces\\Infrastructure\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Interfaces\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeToolTip": "CQRS.Domain\\Interfaces\\Infrastructure\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:59:14.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "RelativeToolTip": "CQRS.Application\\Commons\\Bases\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:34:57.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseResponseGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commons\\Bases\\BaseResponseGeneric.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Commons\\Bases\\BaseResponseGeneric.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commons\\Bases\\BaseResponseGeneric.cs",
+              "RelativeToolTip": "CQRS.Application\\Commons\\Bases\\BaseResponseGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:34:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseError.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commons\\Bases\\BaseError.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\Commons\\Bases\\BaseError.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\Commons\\Bases\\BaseError.cs",
+              "RelativeToolTip": "CQRS.Application\\Commons\\Bases\\BaseError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:34:33.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CQRS.Application\\DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "CQRS.Application\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:27:52.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CQRS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\CQRS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CQRS.Infrastructure\\CQRS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Infrastructure\\CQRS.Infrastructure.csproj",
+              "RelativeToolTip": "CQRS.Infrastructure\\CQRS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T00:22:10.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CQRS.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\CQRS.Application.csproj",
+              "RelativeDocumentMoniker": "CQRS.Application\\CQRS.Application.csproj",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Application\\CQRS.Application.csproj",
+              "RelativeToolTip": "CQRS.Application\\CQRS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T00:17:25.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CQRS.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Caio Naim\\source\\repos\\CqrsApp\\CQRS.Domain\\Class1.cs",
+              "RelativeToolTip": "CQRS.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:07:23.244Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.csproj.AssemblyReference.cache
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.AssemblyInfoInputs.cache
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.AssemblyInfo.cs
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\bin\Debug\net8.0\CQRS.Application.deps.json
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\bin\Debug\net8.0\CQRS.Application.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\bin\Debug\net8.0\CQRS.Application.pdb
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\bin\Debug\net8.0\CQRS.Domain.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\bin\Debug\net8.0\CQRS.Domain.pdb
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.App.ED51B2F2.Up2Date
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\refint\CQRS.Application.dll
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\CQRS.Application.pdb
+C:\Users\Caio Naim\source\repos\CqrsApp\CQRS.Application\obj\Debug\net8.0\ref\CQRS.Application.dll
